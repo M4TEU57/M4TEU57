@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá Pessoal👋, Meu nome é Mateus Silva.
 
-<!--
-**M4TEU57/M4TEU57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Eu estou estudando Desenvolvimento Front-End (HTML, CSS, Bootstrap e JavaScript) 
+- ♂️ Ele/ Dele
+- 🍫 E gosto do chocolate M&M.
+- 💻 Meu Portfólio - https://portfolio-mateussilva.netlify.app/
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="M4TEU5-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="M4TEU5-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="M4TEU5-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="M4TEU5-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://www.linkedin.com/in/mateus-silva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
